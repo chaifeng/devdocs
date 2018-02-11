@@ -9,3 +9,5 @@ public/docs/**/*
 !public/docs/docs.json
 !public/docs/**/index.json
 .vagrant/
+*.swp
+
